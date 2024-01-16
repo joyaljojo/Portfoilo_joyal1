@@ -10,7 +10,7 @@
   <li>React.js</li>
   <li>Git</li>
   <li>npm packages</li>
-  <li>Vercel</li>
+  <li>AWS s3</li>
 </ul>
 
 <p>Some of the features of this website are:</p>
