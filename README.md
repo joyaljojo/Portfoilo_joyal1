@@ -5,6 +5,7 @@
 
 ## About 
 <p>This project is my personal portfolio which features some of my skills, GitHub projects and my resume.</p>
+<a target="_blank" href="http://joyaljojoportfolio.s3-website.ca-central-1.amazonaws.com">Click here to see the portfolio</a>
 <p>These technologies are used to build this website:</p>
 <ul>
   <li>React.js</li>
